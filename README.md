@@ -31,3 +31,4 @@ def animate_heart():
 
 # Run the animation
 animate_heart()
+type
